@@ -26,4 +26,5 @@ Overall, the outcomes derived from the Tableau dashboard can guide decision-maki
 This knowledge can guide strategic planning, resource allocation, and policy-making to effectively combat the pandemic and minimize its impact on our communities.
 
 
+![Covid-19 in India Dashboard Analysis](https://github.com/archana2727/Covid-19-in-India-Dashboard-Analysis/assets/134779663/1b16d06d-2322-48de-809e-e2628a0b7af8)
 
